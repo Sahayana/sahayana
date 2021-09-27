@@ -1,0 +1,15 @@
+h1{
+    color: coral;    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+table, th, td{
+    border: 2px solid black;
+}
+
+.comment {
+    border-top:dotted 1px #ddd;
+    font-size:0.7em;
+}
