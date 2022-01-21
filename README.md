@@ -18,6 +18,7 @@
  🌱 I’m currently learning ...<br>
       
      💻 Web programming
+     📈 Machine Learning
      🚶🏻‍♂️ Life
     
  📫 Hit me up [here](https://sahayana.tistory.com/).<br>
