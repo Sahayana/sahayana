@@ -9,44 +9,28 @@
    # 👋 Hi, I’m @Sahayana<br>
     <hr>
  👀 I’m interested in<br>
-   
+
+     💻 programming
      📚 Reading
      🙏🏻 Meditation
      🔗 Business
-    
-   
- 🌱 I’m currently learning ...<br>
-      
-     💻 Web programming
-     📈 Machine Learning
-     🚶🏻‍♂️ Life
+     
     
  📫 Hit me up [here](https://sahayana.tistory.com/).<br>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahayana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahayana&layout=compact&hide_border=true&theme=white)
-  
- 
+
  
 
-   
-  
 
-## Platforms & Languages
+## Language & Stack
 <p>
   
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/docker-092E20?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-F05032?style=for-the-badge&logo=amazon&logoColor=white">
   
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>  
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </p>
 
